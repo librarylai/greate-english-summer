@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 function Home(props) {
     return (
         <div>
-            HOME12
+            HOME12asdasdasd
         </div>
     )
 }
