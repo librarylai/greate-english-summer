@@ -1,10 +1,11 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-function Banner(props) {
+function Banner() {
     return (
         <div>
-            
+         Banner
+        
         </div>
     )
 }
@@ -14,4 +15,3 @@ Banner.propTypes = {
 }
 
 export default Banner
-
